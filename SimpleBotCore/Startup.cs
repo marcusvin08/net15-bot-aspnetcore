@@ -35,7 +35,6 @@ namespace SimpleBotCore
             {
                 app.UseDeveloperExceptionPage();
             }
-
             app.UseMvc();
         }
     }
